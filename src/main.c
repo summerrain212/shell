@@ -1,11 +1,3 @@
-/*
-Author: Tianyu Xia ,Guoqiang Huang
-Name : Shell
-*/
-
-
-
-#include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 #include <limits.h>
