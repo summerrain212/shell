@@ -40,7 +40,6 @@ int executeCommand(struct Command *command)
 
 	}
 
-	//TODO 这里特别小心 现在是-1 为了是考虑最后一个有 <  > & command 同时这样保证了pipe n-1次
 	for (i = 0; i < childNum ; i++)
 	{
 		//spawn the child 
